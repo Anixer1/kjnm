@@ -21,7 +21,7 @@ import {
   playIconLg,
   settingsIcon,
   volumeIcon,
-} from "./PlayerIcons";
+} from "./PlayerStyle";
 import "./Player.css";
 import website_name from "@/src/config/website";
 import getChapterStyles from "./getChapterStyle";
